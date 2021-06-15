@@ -1,2 +1,2 @@
 # Foundations-of-AI
-### Fall Sem'21
+### Winter Sem'21
